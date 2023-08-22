@@ -1,4 +1,17 @@
 .env
 node_modules/
 pakage-lock.json
+pids
 logs
+results
+.npm
+.eslintcache
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+logs/
+build/
+dist/
+out/
